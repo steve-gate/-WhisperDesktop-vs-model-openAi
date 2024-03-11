@@ -1,0 +1,1 @@
+# -WhisperDesktop-vs-model-openAi
